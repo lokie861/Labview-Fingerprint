@@ -1,0 +1,1 @@
+The LabVIEW Fingerprint library allows to use ZhianTec ZFM-20, ZFM-60, ZFM-70 and ZFM-100 fingerprint sensors on the Raspberry Pi or other Linux machines. Some other models like R302, R303, R305, R306, R307, R551 and FPM10A also work
